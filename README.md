@@ -1,0 +1,1 @@
+Stock picker method for the Odin Project!
